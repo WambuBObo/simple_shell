@@ -43,5 +43,3 @@ void help_unsetenv(void)
 	msg = "message to stderr.\n";
 	write(STDOUT_FILENO, msg, _strlen(msg));
 }
-© 2022 GitHub, Inc.
-
